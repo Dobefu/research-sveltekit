@@ -1,5 +1,5 @@
 <svelte:head>
-  <title>Research - SvelteKit</title>
+  <title>Home | Research - SvelteKit</title>
   <meta name="description" content="Description" />
 </svelte:head>
 
