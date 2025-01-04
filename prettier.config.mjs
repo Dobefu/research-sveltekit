@@ -10,9 +10,6 @@ const config = {
   tabWidth: 2,
   semi: false,
   singleQuote: true,
-  importOrder: ["^@core/(.*)$", "^@server/(.*)$", "^@ui/(.*)$", "^[./]"],
-  importOrderSeparation: false,
-  importOrderSortSpecifiers: true,
 };
 
 export default config;
