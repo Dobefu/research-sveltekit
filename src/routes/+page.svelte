@@ -9,4 +9,9 @@
 
 <h1 class="text-3xl font-medium">Research - SvelteKit</h1>
 
-<Counter />
+<div class="inline-flex flex-col gap-8 pt-8">
+  <Counter />
+  <Counter />
+  <Counter />
+  <Counter />
+</div>

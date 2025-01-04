@@ -2,7 +2,7 @@
   let count = $state(0)
 </script>
 
-<div class="border p-4 inline-flex flex-col my-8 shadow-lg rounded-2xl">
+<div class="border p-4 inline-flex flex-col shadow-lg rounded-2xl">
   <p class="pb-4 mx-auto">Count: {count}</p>
 
   <div class="flex gap-4">
